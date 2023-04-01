@@ -29,3 +29,8 @@ We welcome contributions to the GranKamy (GKM) Token repository. Please read the
 If you have any questions or need help with the GKM token, please open an issue in the [issue tracker](https://github.com/damian-majewski/GranKamy-Token/issues) or visit our community forums.
 
 Happy gaming!
+## IT Company Behind the Ecosystem
+
+Solveler (https://solveler.com) is the driving force behind the Granatak ecosystem. We are a modern IT company specializing in integrating the latest technologies, managing cloud infrastructure, and providing comprehensive training programs for IT teams.
+
+Feel free to contact us: office@solveler.com
